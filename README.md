@@ -7,12 +7,8 @@ Soy un apasionado de la tecnología y **estudiante de Ingeniería en la UNEFA**.
 - 🎓 **Formación:** Actualmente enfocado en fortalecer mis bases en Python, Java y tecnologías Web (HTML/CSS/JS).
 - ⚙️ **Enfoque:** Me interesa tanto la lógica del servidor (Backend) como la experiencia del usuario (Frontend).
 
-### 🛠️ Tecnologías que estoy explorando
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🚀 Tecnologías en las que me enfoco:
+[![Mis Habilidades](https://skillicons.dev/icons?i=py,java,js,html,css,flask)](https://skillicons.dev)
 
 ### 📂 Mis Proyectos Destacados (Colaboraciones)
 En mi perfil encontrarás repositorios que reflejan mi aprendizaje y mi ética de trabajo:
