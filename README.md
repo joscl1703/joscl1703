@@ -26,8 +26,6 @@ Soy un apasionado de la tecnología y **estudiante de Ingeniería en la UNEFA**.
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50px"/><br/><b>Git</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50px"/><br/><b>GitHub</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50px"/><br/><b>VS Code</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50px"/><br/><b>Postman</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50px"/><br/><b>Figma/UI</b></td>
   </tr>
 </table>
 
