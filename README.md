@@ -8,7 +8,6 @@ Soy un apasionado de la tecnología y **estudiante de Ingeniería en la UNEFA**.
 - ⚙️ **Enfoque:** Me interesa tanto la lógica del servidor (Backend) como la experiencia del usuario (Frontend).
 
 ### 🚀 Tecnologías en las que me enfoco:
-[![Mis Habilidades](https://skillicons.dev/icons?i=py,java,js,html,css,flask)](https://skillicons.dev)
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=py" width="50px"/><br/><b>Python</b></td>
@@ -19,6 +18,7 @@ Soy un apasionado de la tecnología y **estudiante de Ingeniería en la UNEFA**.
     <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="50px"/><br/><b>Flask</b></td>
   </tr>
 </table>
+
 ### 📂 Mis Proyectos Destacados (Colaboraciones)
 En mi perfil encontrarás repositorios que reflejan mi aprendizaje y mi ética de trabajo:
 * **[Sistema de Horarios CLI]:(https://github.com/joscl1703/Proyecto-Horario)** Lógica pura en Python y gestión de datos.
