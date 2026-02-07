@@ -19,6 +19,18 @@ Soy un apasionado de la tecnología y **estudiante de Ingeniería en la UNEFA**.
   </tr>
 </table>
 
+### ⚙️ Herramientas de Trabajo en Equipo
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50px"/><br/><b>Git</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50px"/><br/><b>GitHub</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50px"/><br/><b>VS Code</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50px"/><br/><b>Postman</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50px"/><br/><b>Figma/UI</b></td>
+  </tr>
+</table>
+
 ### 📂 Mis Proyectos Destacados (Colaboraciones)
 En mi perfil encontrarás repositorios que reflejan mi aprendizaje y mi ética de trabajo:
 * **[Sistema de Horarios CLI]:(https://github.com/joscl1703/Proyecto-Horario)** Lógica pura en Python y gestión de datos.
